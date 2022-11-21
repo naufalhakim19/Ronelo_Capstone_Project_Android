@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Mantau</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="todo1">TODO</string>
+    <string name="nurse">Nurse Nearby</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="Mantau_medicine">Mantau Medicine</string>
+    <string name="Mantau_patient">Mantau Patient</string>
+    <string name="todo4">TODO4</string>
+    <string name="string_todo4" />
+    <string name="todo5">TODO</string>
+    <string name="show_schedule">SHOW SCHEDULE</string>
+    <string name="comment">Comment: Perbanyak Istirahat</string>
+    <string name="name_s">Name  : Udin Nadin</string>
+    <string name="age_s">Age    : 36</string>
+    <string name="gender_s">Gender  : Male</string>
+    <string name="disease_s">Disease    : Influenza</string>
+    <string name="hello">Hello,</string>
+    <string name="todo7">TODO7</string>
+    <string name="morning">Morning</string>
+    <string name="daylight">Daylight</string>
+    <string name="evening">Evening</string>
+    <string name="_08_00_makan">08:00 - Makan</string>
+    <string name="_08_30_minum_obat_flu">08:30 - Minum Obat FLU</string>
+    <string name="_10_00_istirahat">10:00 - Istirahat</string>
+    <string name="_14_30_minum_obat_flu">14:30 - Minum Obat FLU</string>
+    <string name="_14_00_makan">14:00 - Makan</string>
+    <string name="_16_00_istirahat">16:00 - Istirahat</string>
+    <string name="_20_00_makan">20:00 - Makan</string>
+    <string name="_20_30_minum_obat_flu">20:30 - Minum Obat FLU</string>
+    <string name="_21_00_istirahat">21:00 - Istirahat</string>
+    <string name="medicine">medicine</string>
+    <string name="takePic">take picture</string>
+    <string name="Clickhere">*Click here to choose Platform</string>
+    <string name="medicName">name :</string>
+    <string name="medicCompos">composition:</string>
+    <string name="medicDesc">Description :</string>
+    <string name="MedicDosage">Dosage :</string>
+    <string name="medicHow">how to use :</string>
+    <string name="medicSide">Side Effects :</string>
+    <string name="medicWarning">Warning :</string>
+    <string name="medicContra">contraindication :</string>
+    <string name="chatDesc">Hi Welcome to Consult Menu, may i help you ?</string>
+    <string name="this_is_a_sample_message_that_will_appear">this_is_a_sample_message_that_will_appear1</string>
+    <string name="alarm">Alarm</string>
+    <string name="set_alarm">  Set Alarm</string>
+    <string name="scheduleAlarm">Schedule Alarm</string>
+    <string name="enter_message">Type a Message…</string>
+    <string name="clear_chat">Clear Chat</string>
+    <string name="admin">Admin</string>
+    <string name="empty_message">Cannot be empty</string>
+
+    <string-array name="suggestion_list">
+        <item>Hai</item>
+        <item>Nutrition</item>
+        <item>Medicine</item>
+        <item>Emergency Handling</item>
+    </string-array>
+
+
+</resources>

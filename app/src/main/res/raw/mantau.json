@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mantauhomecare-wvum",
+  "private_key_id": "46d5da7cf11a4961bd95994d0582b5f99293b81f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFoYCooiu6XuBg\nfhONjMvAM/GvsFrq7HzrYxy3KOD9A5zFUHYTIN/VKFXgykF9A7d6825mH9tpngp4\nY0oZCl3jUg54Iw0h6fxO8/1Mx0EndIG3PXv3cz8CkDYTkfjs8NfCqi0S808m+jaa\nPO4KjcqE0kaxcaCNWyiFXcwcD8IOh2evdn7xWWFr5FE4mAVcdOHHxA6OrquCrk0i\n9a5DqsDpo7NHYZwa9AWd98vwhokVqdaCcssRYocpPAKNQZ+r0HuPKAOgyW26Hwya\nKZ8Vv1B4l3P7LmWM4jOJH3dmq4DctJeq+5IfqMpQzIiHpJEh8fYYTaFVtq+Xvhpx\nZwM2b7u9AgMBAAECggEARxOog/2fIG4S4GE3gwcKGFwWJguVBzx6SOXiY/UtxZFR\nBp3DeWmvVqglCq1zFBUMHgoCwHPgo4GVXmrHMW5LCgBu98ITbQkMFxElHkHjKt95\n738LYJlwJenbqPosvnp3/qjZgSFEbE486QfUzLLmDRLbHeIxzeTlE+ICEG2Sa0qg\n93u4Dmuh4c5nkyHVAkr6W6xTbHhBc3MB9GNIUcw7ZC8Kq0hu2Y3IwuINR8E2L2OD\nA8eeE2IxHwEObGdhNIZdqSnbjiH8hNDvdbVlrE8r0aBYEBB1BvIhK2+bekQnuOgY\nZu9RxLwk/NKnxZOjxVkWIGIYx5nTUgfiXmXR+w4XeQKBgQD3X8DQqqvyAlz6X2ww\noNAxpNFs48rlBRIsHUlVpoksNmGPuKnaKHN7Wk5KFAmTBVNOunTB4NWY5DeRbezI\nBM90ue3wG4dbU3kcnaWJ63CSIKGa2WWY2qgtsQ0MIVdt6dGHFYq1ayUThBd1yzpa\n5XV4RsIKrb7LnejedHIiDlB+dwKBgQDMhbRWxraka9mQ1K5cMXz44NElKsYU3maG\nNlcIunNab5aFi1a+TEvQ66I07BReLGKU/wfE56WUkHUwImsMDFKSMCQQQyPDCjP6\nYm3CNcol18CQ8Y4BrxYHAALgo5Yh4eFVoOREK0A0Fa1a8GzNziuD/lWuqa2GORj7\niMhM/+QgawKBgQC3MexDHAHWabWdnYkrwgwsl5iYgWHClSzOCqpCieBQI73Ah8sR\nyp8rHMeZyJkGjg0R4reQ1QaaAXi9dKDDx/wyv3bcOCbXlUu9y2nKZ9eoAA5t9M1u\nk4+0tseo0hBDT8NhvKxKihydBVeyXlzK7988wXn2GpGPjVPlWmsjmWI3JQKBgQC2\nvika+EcttugZjs+UtOtTfZ2itgtzjhzRgzBVLjPv9JDsFkqVkpqTvFedLewtET+s\nnguVFt5OVp0/OyGnDEOjN7yhgzwrA6zZ5qTnySQsmBEJ8avPOWBXNN1dVw3IjInI\n9w+/EV42q7/P589wPO2I7PImNJpFujLmXZuLoYF2rQKBgBijKdcA9Fbo4//R0+/0\nXzAOJYA4WAnlIxT0DNY27nR9rCrqBQ3cJSvsgfeQ/2L2VDlVUGQQ9Cd0G5TgToI3\nZTZ/CJDLDKjT99quO9wQ1Z3WZKIf6GEcntL0oIxcz8ZgP3gzxBevg/pp3jH9RfwH\nLW0GlLNwfrQMjAFyo8YDwRRq\n-----END PRIVATE KEY-----\n",
+  "client_email": "matauhomecare@mantauhomecare-wvum.iam.gserviceaccount.com",
+  "client_id": "113429036390333460256",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/matauhomecare%40mantauhomecare-wvum.iam.gserviceaccount.com"
+}
